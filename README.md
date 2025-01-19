@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game 🎮
+<b>Tic-Tac-Toe Game</b> 🎮
 
 Welcome to the Tic-Tac-Toe game repository! This project demonstrates core web development skills using HTML, CSS, and JavaScript. It's a fully functional Tic-Tac-Toe game that you can play directly in your browser! 🖥️📱<br>
 
