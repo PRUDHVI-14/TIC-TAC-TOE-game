@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/PRUDHVI-14/tic-tac-toe.git
 Navigate to the project directory:
 
 bash
