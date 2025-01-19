@@ -25,7 +25,8 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/PRUDHVI-14/tic-tac-toe.git
+git clone https://github.com/PRUDHVI-14/TIC-TAC-TOE-game
+
 Navigate to the project directory:
 
 bash
