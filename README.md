@@ -12,7 +12,7 @@ Game Reset: Restart the game with a click of a button 🔄<br>
 Dynamic Gameplay: Real-time updates as you play 🕹️<br>
 
 <b>Demo</b>
-Click here to pplay the game : https://PRUDHVI-14/TIC-TAC-TOE-game/
+Click here to pplay the game :  https://prudhvi-14.github.io/TIC-TAC-TOE-game/
 
 🛠️<b> Technologies Used</b><br>
 HTML5: Structuring the game board and layout 🧱<br>
